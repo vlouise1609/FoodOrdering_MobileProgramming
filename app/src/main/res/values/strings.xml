@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Binus EzyFoody</string>
+    <string name="app_moto">Taste the Best that Surprise you.</string>
+    <string name="button_my_order">My Order</string>
+    <string name="button_foods">Foods</string>
+    <string name="button_snack">Snacks</string>
+    <string name="button_drinks">Drinks</string>
+    <string name="button_topup">Top Up</string>
+    <string name="button_quantity">Quantity : </string>
+    <string name="button_order">Order</string>
+    <string name="button_order_more">Order More</string>
+    <string name="button_pay_now">Pay Now</string>
+    <string name="button_delete">Hapus</string>
+    <string name="button_home">Menu Utama</string>
+    <string name="total_str">Total : Rp. </string>
+    <string name="finish_statement">Your order complete. Thank you ! </string>
+    <string name="atribut_price_txt"> + Rp. </string>
+</resources>
